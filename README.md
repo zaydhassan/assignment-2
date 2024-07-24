@@ -5,7 +5,7 @@ Simple static single-page school website, fully responsive, with toggle menu for
 #Fully responsive design
 #Toggle menu for mobile view
 
-### LIVE-PREVIEW: https://sampleschoolsite-sp-mobilenav.netlify.app/
+### LIVE-PREVIEW: [https://sampleschoolsite-sp-mobilenav.netlify.app/](https://assignment-2-nine-theta.vercel.app/)
 ## Language used: 
 #HTML
 #CSS
